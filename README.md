@@ -1,2 +1,2 @@
 # wildrydes-site
-Project
+JHU WebSec Project
